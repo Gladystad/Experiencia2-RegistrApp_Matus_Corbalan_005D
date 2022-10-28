@@ -52,7 +52,7 @@ INSTALACIÓN Y EJECUCIÓN DEL SRCALUMNO
 
 
 3. Nos vamos a nuestra carpeta recién creada en el escritorio llamada "MyApp" dentro de esta carpeta se encuentra una subcarpeta llamada "src" y esta debe ser eliminada.
-4. Vamos a buscar el srcDocente.zip recién descargado y lo descomprimos, la carpeta que es extraída debe ser movida a la carpeta "MyApp".
+4. Vamos a buscar el srcAlumno.zip recién descargado y lo descomprimos, la carpeta que es extraída debe ser movida a la carpeta "MyApp".
 5. Volvemos a nuestro cmd y escribimos el siguiente codigo "ionic serve --lab" y le damos a enter, luego el programa nos va a preguntar si queremos instalar @ionic/lab así que ingresamos "y" ya que es necesario para la ejecución de la app, esperamos que cargue y cuando este haya terminado se nos abrirá una pestaña en nuestro navegador determinado. 
 6. Ahora puede utilizar la aplicación, para conocer más sobre las funcionalidades, es necesario que vea el video adjunto que da los pasos y las caracteristicas de la app.
 
